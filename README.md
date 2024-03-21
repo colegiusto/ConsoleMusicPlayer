@@ -16,4 +16,5 @@ q - quit
 VLC media player installed
 
 ## Future plans
-Track for fun listening data, add user feedback
+Track use for fun listening data, add user feedback
+Add basic controls
