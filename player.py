@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor
 from pytube import YouTube
 from youtube_search import YoutubeSearch
 
-API_KEY = "b8ce36003648f092a592d520e2bef206"
+API_KEY = ""
 
 base_url = "http://ws.audioscrobbler.com/2.0"
 
