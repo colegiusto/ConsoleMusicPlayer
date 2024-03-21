@@ -1,2 +1,7 @@
 venv/
 tmp/
+*.pickle
+audio_files/
+download.py
+p1.py
+.gitignore
