@@ -8,9 +8,9 @@ Might have to create initial library and history pickles
 
 ## Use
 ### ACTIONS
-*s - search for song, then select to queue and play
+s - search for song, then select to queue and play
 
-*q - quit
+q - quit
 
 ## Dependencies
 VLC media player installed
